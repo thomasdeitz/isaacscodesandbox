@@ -1,2 +1,0 @@
-# isaacscodesandbox
-Created with CodeSandbox
